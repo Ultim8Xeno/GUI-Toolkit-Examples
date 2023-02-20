@@ -1,0 +1,6 @@
+[submodule "GUI-Toolkit"]
+	path = GUI-Toolkit
+	url = https://github.com/Ultim8Xeno/GUI-Toolkit/
+[submodule "Renderer"]
+	path = Renderer
+	url = https://github.com/Ultim8Xeno/2DOpenGLRenderer/
