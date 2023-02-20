@@ -1,2 +1,7 @@
 Renderer/
 GUI-Toolkit/
+**/*.vcxproj*
+*.sln
+bin/
+bin-int/
+.vs/
